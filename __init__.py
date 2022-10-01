@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------
 # pycparser: __init__.py
 #
-# This package file exports some convenience functions for
+# This package file exports some convenience functions for the 
 # interacting with pycparser
 #
 # Eli Bendersky [https://eli.thegreenplace.net/]
